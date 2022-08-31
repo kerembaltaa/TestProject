@@ -8,6 +8,7 @@ namespace TestProject
         {
             Console.WriteLine("Second commit");
             //Yeni yorum satırı
+            //İkinci yorum satırı
         }
     }
 }
